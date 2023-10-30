@@ -1,0 +1,13 @@
+.conatct_section{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.conatct_section h1{
+    font-size: 48px;
+    font-weight: 800;
+
+}
+.conatct_section p{
+    font-size: 16px;
+    font-weight: 500;
+}
